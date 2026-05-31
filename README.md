@@ -6,9 +6,9 @@ A full-stack decentralized application (DApp) demonstrating the complete lifecyc
 
 | Component | Link |
 
-*🌐 Frontend Demo** | [![Vercel] (https://krt-erc-20-token-dapp.vercel.app/)|
+*🌐 Frontend Demo [![Vercel] (https://krt-erc-20-token-dapp.vercel.app/)
 
-*📜 Smart Contract** | [![Etherscan] (https://sepolia.etherscan.io/token/0xb9f893a7aa014dc6477392f06c9b930f44e0c3d1) |
+*📜 Smart Contract [![Etherscan] (https://sepolia.etherscan.io/token/0xb9f893a7aa014dc6477392f06c9b930f44e0c3d1)
 
 ## 🚀 Features
 
