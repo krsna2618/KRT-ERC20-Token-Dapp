@@ -2,6 +2,11 @@
 
 A full-stack decentralized application (DApp) demonstrating the complete lifecycle and standard operations of an ERC-20 token. Built with Solidity and React, this project features a verified deployment on the Ethereum Sepolia testnet and a responsive Web3 dashboard for real-time wallet interaction.
 
+## 🚀 Live Project
+
+| Component | Link |
+*🌐 Frontend Demo** | [![Vercel] (https://krt-erc-20-token-dapp.vercel.app/)|
+*📜 Smart Contract** | [![Etherscan] (https://sepolia.etherscan.io/token/0xb9f893a7aa014dc6477392f06c9b930f44e0c3d1) |
 
 ## 🚀 Features
 
